@@ -83,10 +83,16 @@
         <mxCell id="2e2691kYTpiGleOjH3lW-9" value="" style="swimlane;startSize=0;horizontal=0;html=1;" parent="2e2691kYTpiGleOjH3lW-5" vertex="1">
           <mxGeometry y="360" width="600" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="0DhCJSr_aqL9QJpj33sH-5" value="방안 A" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="2e2691kYTpiGleOjH3lW-9">
+          <mxGeometry x="68.5" y="45" width="61" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="4L8Cuwp7uEUkbLNw5xWZ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="2e2691kYTpiGleOjH3lW-5" source="S8p28Eo5mobxE9UgC7py-1" target="5n1dKm0qi3Ug6_TY4CIc-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0DhCJSr_aqL9QJpj33sH-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="2e2691kYTpiGleOjH3lW-5" source="5n1dKm0qi3Ug6_TY4CIc-2" target="0DhCJSr_aqL9QJpj33sH-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0DhCJSr_aqL9QJpj33sH-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2e2691kYTpiGleOjH3lW-5" source="0DhCJSr_aqL9QJpj33sH-1" target="0DhCJSr_aqL9QJpj33sH-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
