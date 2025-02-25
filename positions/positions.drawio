@@ -74,6 +74,9 @@
         <mxCell id="5n1dKm0qi3Ug6_TY4CIc-2" value="자체 예산?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="2e2691kYTpiGleOjH3lW-7" vertex="1">
           <mxGeometry x="49" y="30" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="7OC95sT1-mnSZazaumU0-3" value="공공기관?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="2e2691kYTpiGleOjH3lW-7">
+          <mxGeometry x="250" y="30" width="100" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="2e2691kYTpiGleOjH3lW-8" value="" style="swimlane;startSize=0;horizontal=0;html=1;" parent="2e2691kYTpiGleOjH3lW-5" vertex="1">
           <mxGeometry y="240" width="600" height="120" as="geometry" />
         </mxCell>
@@ -116,6 +119,17 @@
         </mxCell>
         <mxCell id="HuRnH1Dy_c9MGHNLwczV-2" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HuRnH1Dy_c9MGHNLwczV-1">
           <mxGeometry x="-0.8846" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7OC95sT1-mnSZazaumU0-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="2e2691kYTpiGleOjH3lW-5" source="S8p28Eo5mobxE9UgC7py-2" target="7OC95sT1-mnSZazaumU0-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7OC95sT1-mnSZazaumU0-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="2e2691kYTpiGleOjH3lW-5" source="7OC95sT1-mnSZazaumU0-3" target="0DhCJSr_aqL9QJpj33sH-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7OC95sT1-mnSZazaumU0-6" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7OC95sT1-mnSZazaumU0-5">
+          <mxGeometry x="-0.973" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
