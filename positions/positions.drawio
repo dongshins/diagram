@@ -189,10 +189,34 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7OC95sT1-mnSZazaumU0-21" value="" style="swimlane;startSize=0;horizontal=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="81" y="-10" width="600" height="90" as="geometry" />
+          <mxGeometry x="81" y="-30" width="600" height="110" as="geometry" />
         </mxCell>
         <mxCell id="nwCuJpAUt--uD3cL2fHr-3" value="DB 구축 주체의 입지 판단" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;size=0.026999999999999996;arcSize=10;flipV=1;labelPosition=center;align=center;strokeWidth=2;" vertex="1" parent="7OC95sT1-mnSZazaumU0-21">
           <mxGeometry x="175" y="18" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nwCuJpAUt--uD3cL2fHr-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nwCuJpAUt--uD3cL2fHr-3" target="S8p28Eo5mobxE9UgC7py-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="381" y="60" />
+              <mxPoint x="458" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nwCuJpAUt--uD3cL2fHr-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nwCuJpAUt--uD3cL2fHr-3" target="S8p28Eo5mobxE9UgC7py-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="381" y="60" />
+              <mxPoint x="161" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nwCuJpAUt--uD3cL2fHr-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nwCuJpAUt--uD3cL2fHr-3" target="S8p28Eo5mobxE9UgC7py-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="381" y="60" />
+              <mxPoint x="609" y="60" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
